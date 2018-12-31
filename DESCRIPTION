@@ -1,0 +1,17 @@
+Package: ggEnrich
+Type: Package
+Title: visualization of gene enrichment analysis
+Version: 0.1.0
+Author: person(given = "Ying", family = "Ge", email = "geying.tju@gmail.com")
+Maintainer: Ying Ge <geying.tju@gmail.com>
+Description: This package impliments methods to visualize gene enrichment with ggplot2.
+Depends:
+    R (> 3.5.0)
+Inports:
+    ggplot2
+VignetteBuilder: knitr
+License: Artistic-2.0
+URL: https://github.com/ying-ge/ggEnrich
+BugReports: https://github.com/ying-ge/ggEnrich/issues
+Encoding: UTF-8
+LazyData: true

@@ -1,2 +1,1 @@
-# ggEnrich
-Enrichment visualization
+The main analysis script and result for the "Caliban regulates mitochondrial morphology and redox state in enterocytes to maintain intestinal homeostasis in Drosophila" manuscript can be found in https://github.com/ying-ge/clbn. It is currently private and is scheduled to be released when the paper published. If you are a reviewer, please contact me via email: geying.tju@gmail.com.
